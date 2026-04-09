@@ -1,0 +1,23 @@
+{
+  "generated": "2026-04-09T17:14:15Z",
+  "streams": {
+    "stable": {
+      "tag": null,
+      "name": null,
+      "message": "No stable release yet. Please use beta or dev.",
+      "release_url": "https://github.com/Shubham11Gupta/RasQberry-Two/releases"
+    },
+    "beta": {
+      "tag": null,
+      "name": null,
+      "message": "No beta release yet. Please use dev.",
+      "release_url": "https://github.com/Shubham11Gupta/RasQberry-Two/releases"
+    },
+    "dev": {
+      "tag": null,
+      "name": null,
+      "message": "No development release available.",
+      "release_url": "https://github.com/Shubham11Gupta/RasQberry-Two/releases"
+    }
+  }
+}
